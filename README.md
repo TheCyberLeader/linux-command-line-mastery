@@ -456,5 +456,3 @@ The combination of Linux file permissions management and SQL security querying d
 [⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=TheCyberLeader-linux-command-line-mastery&icon=0&color=0)](https://visitcount.itsvg.in)
