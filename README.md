@@ -453,6 +453,6 @@ The combination of Linux file permissions management and SQL security querying d
 
 ## 🔗 Navigation
 
-[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
+[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) |
 
 ---
